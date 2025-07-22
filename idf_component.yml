@@ -1,0 +1,5 @@
+version: 1.0.0
+description: GCOV library for ESP-IDF
+url: https://github.com/espressif/esp-gcov
+dependencies:
+  idf: ">=6.0"
